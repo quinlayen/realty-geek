@@ -1,0 +1,13 @@
+
+
+{{ define "section_content" }}
+
+  <div class="section" id="content">
+
+    {{ range .Site.Data.repos}}
+      {{ partial "repos.html" .}}
+    {{end}}
+  </div>
+
+
+{{ end }}

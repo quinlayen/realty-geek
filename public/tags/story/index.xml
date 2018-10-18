@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Story on Realty-Geek</title>
+    <link>/tags/story/</link>
+    <description>Recent content in Story on Realty-Geek</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Oct 2018 10:28:27 -1000</lastBuildDate>
+    
+	<atom:link href="/tags/story/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>5 Reasons to Invest in Tokyo Properties</title>
+      <link>/posts/5reasonstoinvestintokyoproperties/</link>
+      <pubDate>Mon, 15 Oct 2018 10:28:27 -1000</pubDate>
+      
+      <guid>/posts/5reasonstoinvestintokyoproperties/</guid>
+      <description>2017.02.06
+The past several years have been eventful ones for Japan, and perhaps no area of the economy has generated as many headlines as the property sector. One of the first to see a rebound following the advent of Abenomics, the industry has continued to attract interest even as concerns mount over the state of the global economy. The Wall Street Journal and the Nikkei Asian Review alike attest to the appeal Japanese real estate carries for international investors: the J-REIT market has grown almost 10% from the start of the year even as the Nikkei Index has contracted to a similar degree, and foreign investment in such funds reached the highest level in over eight years this past February.</description>
+    </item>
+    
+    <item>
+      <title>Rants</title>
+      <link>/posts/</link>
+      <pubDate>Mon, 15 Oct 2018 10:27:58 -1000</pubDate>
+      
+      <guid>/posts/</guid>
+      <description>Random ranting about CRE, Technology, and how they Work Together&amp;hellip; And possibly anything else that I feel like at that time.</description>
+    </item>
+    
+  </channel>
+</rss>
